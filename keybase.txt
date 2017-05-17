@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/marioblazek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://marioblazek.com
+  * I am marioblazek (https://keybase.io/marioblazek) on keybase.
+  * I have a public key ASDQan9J3BwDdTnVARVyQeMNTyj0a-0hVDTv-9LboX2lsAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dd5f9eba89e4874a4357a0c93c4df10aa6cd2d97eed341fb615ec6efee021c2e0a",
+            "host": "keybase.io",
+            "kid": "0120d06a7f49dc1c037539d501157241e30d4f28f46bed215434effbd2dba17da5b00a",
+            "uid": "1b8131c5c95655dadcc4e172ac386319",
+            "username": "marioblazek"
+        },
+        "service": {
+            "hostname": "marioblazek.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1495017316,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495017287,
+        "hash": "eccff127ec5a4610ce4ce275bfc187e0f28f182eda587315b8360c4c24af86f07a08e32c5d50afb5bcecfc3b2c2f500405705f9b1ff2600eea73a575e8d6e705",
+        "seqno": 1090149
+    },
+    "prev": "5b68574dfb13091170797d4c689b3abd4c595416fdfd490cf50a5522c2d9cec3",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0Gp/SdwcA3U51QEVckHjDU8o9GvtIVQ07/vS26F9pbAKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGQ1ZjllYmE4OWU0ODc0YTQzNTdhMGM5M2M0ZGYxMGFhNmNkMmQ5N2VlZDM0MWZiNjE1ZWM2ZWZlZTAyMWMyZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDA2YTdmNDlkYzFjMDM3NTM5ZDUwMTE1NzI0MWUzMGQ0ZjI4ZjQ2YmVkMjE1NDM0ZWZmYmQyZGJhMTdkYTViMDBhIiwidWlkIjoiMWI4MTMxYzVjOTU2NTVkYWRjYzRlMTcyYWMzODYzMTkiLCJ1c2VybmFtZSI6Im1hcmlvYmxhemVrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXJpb2JsYXplay5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIyIn0sImN0aW1lIjoxNDk1MDE3MzE2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTUwMTcyODcsImhhc2giOiJlY2NmZjEyN2VjNWE0NjEwY2U0Y2UyNzViZmMxODdlMGYyOGYxODJlZGE1ODczMTViODM2MGM0YzI0YWY4NmYwN2EwOGUzMmM1ZDUwYWZiNWJjZWNmYzNiMmMyZjUwMDQwNTcwNWY5YjFmZjI2MDBlZWE3M2E1NzVlOGQ2ZTcwNSIsInNlcW5vIjoxMDkwMTQ5fSwicHJldiI6IjViNjg1NzRkZmIxMzA5MTE3MDc5N2Q0YzY4OWIzYWJkNGM1OTU0MTZmZGZkNDkwY2Y1MGE1NTIyYzJkOWNlYzMiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAKmRBPOxCp1D61N9B1flFWWzO7uAugwMm4AXW8ShBPln+y92afKrnz6BysM3iQZnCC2DrCmL6oj3DBRy3Cm5bBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINfASLUsuaPJSlMn24McPNO16Rd1jRYzwpag+AnNUsEOo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/marioblazek
+
+==================================================================
